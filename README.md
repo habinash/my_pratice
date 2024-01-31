@@ -1,4 +1,4 @@
 # my_pratice
-this is my first repository
 
 this is editing
+this is second editing
